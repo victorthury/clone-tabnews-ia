@@ -1,6 +1,6 @@
 import "./globals.css";
 
-export const metadata = { title: "Lista" };
+export const metadata = { title: "Em Construção" };
 
 export default function RootLayout({ children }) {
   return (

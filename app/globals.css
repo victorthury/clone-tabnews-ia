@@ -7,8 +7,25 @@ body {
   font-family: Arial, sans-serif;
 }
 
-p {
+main {
+  max-width: 48rem;
   margin: 0 1rem;
   text-align: center;
-  font-size: 3rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+p {
+  font-size: 1.5rem;
+  line-height: 1.4;
+}
+
+.total {
+  font-weight: bold;
+}
+
+a {
+  font-size: 1.25rem;
 }
